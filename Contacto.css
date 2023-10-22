@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    margin: 5px;
+    padding: 0%;
+    padding-top: 5px;
+    width: 1000px;
+    overflow: visible;
+}
+.h1{
+    font-size: 100px;
+    font-weight: 600 bold;
+}
+.caja{
+    text-align: start;
+    border-bottom: 1px dashed gray;
+}
+
